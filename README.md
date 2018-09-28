@@ -1,6 +1,7 @@
 # mini-FS
 a mini file system
 
+打开exe文件后在命令行执行
 用户指令：
 create	创建空间
 mount	挂载空间
