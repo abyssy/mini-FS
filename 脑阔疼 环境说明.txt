@@ -1,0 +1,2 @@
+编译器是visual studio 2017，执行平台是Windows。
+运行文件系统时，在windows系统下直接打开mini-FS.exe，无其他运行要求。
